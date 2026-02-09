@@ -1,7 +1,7 @@
 {
 	"compatibility_date": "2025-10-08",
 	"main": "src/index.ts",
-	"name": "chanfana-openapi-template",
+	"name": "admin",
 	"upload_source_maps": true,
 	"observability": {
 		"enabled": true
@@ -9,7 +9,7 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "openapi-template-db",
+			"database_name": "admin",
 			"database_id": "a0be9800-a693-4b40-aaae-3546c0335947"
 		}
 	]
